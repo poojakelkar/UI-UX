@@ -1,0 +1,35 @@
+{
+  "Group 1": {
+    "anchorPoint": "MIDDLECENTER",
+    "keyframes": {
+      "x": [
+        {
+          "id": "be5e076c-e2d9-46aa-941c-2b3f3c95b97e",
+          "ms": 0,
+          "property": "x",
+          "value": 292.9348,
+          "easing": "linear",
+          "easingCurve": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "id": "a566bdaf-0a54-41a0-b18d-b0d30db35483",
+          "ms": 353,
+          "property": "x",
+          "value": 292.9348,
+          "easing": "linear",
+          "easingCurve": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      ]
+    }
+  }
+}
