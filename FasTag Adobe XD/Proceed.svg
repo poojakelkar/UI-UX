@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="640" viewBox="0 0 360 640">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.023" y1="1.032" x2="-0.11" y2="-0.093" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7ef4b7"/>
+      <stop offset="1" stop-color="#48d0c2"/>
+      <stop offset="1" stop-color="#42ccc3"/>
+    </linearGradient>
+    <clipPath id="clip-Proceed">
+      <rect width="360" height="640"/>
+    </clipPath>
+  </defs>
+  <g id="Proceed" clip-path="url(#clip-Proceed)">
+    <rect width="360" height="640" fill="#fff"/>
+    <path id="Icon_ionic-md-arrow-back" data-name="Icon ionic-md-arrow-back" d="M19.977,12.1H9.345l4.9-4.9L12.977,5.977l-7,7,7,7L14.2,18.752l-4.856-4.9H19.977Z" transform="translate(14.023 17.023)"/>
+    <path id="Icon_material-notifications" data-name="Icon material-notifications" d="M16,23.75A2.316,2.316,0,0,0,18.5,21.7h-5A2.308,2.308,0,0,0,16,23.75ZM23.5,17.6V12.468a6.5,6.5,0,0,0-5.625-6.482v-.7A1.73,1.73,0,0,0,16,3.75a1.73,1.73,0,0,0-1.875,1.538v.7A6.482,6.482,0,0,0,8.5,12.468V17.6L6,19.647v1.026H26V19.647Z" transform="translate(316 16.625)"/>
+    <text id="Buy_FasTag1" data-name="Buy FasTag1" transform="translate(18 90)" fill="#141414" font-size="24" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Buy FasTag</tspan></text>
+    <rect id="total_payable" data-name="total payable" width="361" height="106" transform="translate(0 118)" fill="url(#linear-gradient)"/>
+    <text id="Total_Payable-2" data-name="Total Payable" transform="translate(18 152)" fill="#141414" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Total Payable</tspan></text>
+    <text id="money" transform="translate(46 202)" font-size="32" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">200</tspan></text>
+    <path id="rupee-sign" d="M13.475,4.25c.29,0,.525-.168.525-.375V2.625c0-.207-.235-.375-.525-.375H.525c-.29,0-.525.168-.525.375v1.4C0,4.23.235,4.4.525,4.4H4.256a3.77,3.77,0,0,1,2.667.852H.525c-.29,0-.525.168-.525.375v1.25c0,.207.235.375.525.375H7.471C7.2,8.378,6.029,9.082,4.2,9.082H.525c-.29,0-.525.168-.525.375v1.657a.338.338,0,0,0,.169.276L7.39,16.151a.654.654,0,0,0,.356.1h3.612c.478,0,.707-.419.356-.651l-6.6-4.352c3.347-.073,5.738-1.669,6.051-4h2.31c.29,0,.525-.168.525-.375V5.625c0-.207-.235-.375-.525-.375H10.907a3.822,3.822,0,0,0-.624-1Z" transform="translate(20.5 177.5)"/>
+    <text id="vehicle_number" data-name="vehicle number" transform="translate(213 198)" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em"><tspan x="0" y="0">MH 18 2234</tspan></text>
+    <text id="Select_Payment_Method" data-name="Select Payment Method" transform="translate(20 271)" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.04em"><tspan x="0" y="0">Select Payment Method</tspan></text>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(21 309)" fill="#fff" stroke="#818181" stroke-width="1">
+      <circle cx="10.5" cy="10.5" r="10.5" stroke="none"/>
+      <circle cx="10.5" cy="10.5" r="10" fill="none"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(21 370)" fill="#fff" stroke="#818181" stroke-width="1">
+      <circle cx="10.5" cy="10.5" r="10.5" stroke="none"/>
+      <circle cx="10.5" cy="10.5" r="10" fill="none"/>
+    </g>
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(21 431)" fill="#fff" stroke="#818181" stroke-width="1">
+      <circle cx="10.5" cy="10.5" r="10.5" stroke="none"/>
+      <circle cx="10.5" cy="10.5" r="10" fill="none"/>
+    </g>
+    <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(21 492)" fill="#fff" stroke="#818181" stroke-width="1">
+      <circle cx="10.5" cy="10.5" r="10.5" stroke="none"/>
+      <circle cx="10.5" cy="10.5" r="10" fill="none"/>
+    </g>
+    <text id="Debit_Card" data-name="Debit Card" transform="translate(66 328)" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Debit Card</tspan></text>
+    <text id="Credit_Card" data-name="Credit Card" transform="translate(66 387)" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Credit Card</tspan></text>
+    <text id="Wallet" transform="translate(66 448)" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Wallet</tspan></text>
+    <text id="UPI" transform="translate(66 509)" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">UPI</tspan></text>
+    <g id="Payment_Proceed" data-name="Payment Proceed">
+      <g id="Rectangle_17" data-name="Rectangle 17" transform="translate(20 582)" fill="#fdfdfd" stroke="#42ccc3" stroke-width="2">
+        <rect width="315" height="39" rx="6" stroke="none"/>
+        <rect x="1" y="1" width="313" height="37" rx="5" fill="none"/>
+      </g>
+      <text id="Proceed_For_Payment" data-name="Proceed For Payment" transform="translate(178 608)" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-89.987" y="0">Proceed For Payment</tspan></text>
+    </g>
+  </g>
+</svg>

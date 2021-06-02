@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="640" viewBox="0 0 360 640">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.174" y1="1" x2="-0.58" y2="-0.185" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7ef4b7"/>
+      <stop offset="1" stop-color="#42ccc3"/>
+    </linearGradient>
+    <clipPath id="clip-Done">
+      <rect width="360" height="640"/>
+    </clipPath>
+  </defs>
+  <g id="Done" clip-path="url(#clip-Done)">
+    <rect width="360" height="640" fill="#fff"/>
+    <path id="Icon_ionic-md-arrow-back" data-name="Icon ionic-md-arrow-back" d="M19.977,12.1H9.345l4.9-4.9L12.977,5.977l-7,7,7,7L14.2,18.752l-4.856-4.9H19.977Z" transform="translate(14.023 17.023)"/>
+    <path id="Icon_material-notifications" data-name="Icon material-notifications" d="M16,23.75A2.316,2.316,0,0,0,18.5,21.7h-5A2.308,2.308,0,0,0,16,23.75ZM23.5,17.6V12.468a6.5,6.5,0,0,0-5.625-6.482v-.7A1.73,1.73,0,0,0,16,3.75a1.73,1.73,0,0,0-1.875,1.538v.7A6.482,6.482,0,0,0,8.5,12.468V17.6L6,19.647v1.026H26V19.647Z" transform="translate(316 16.625)"/>
+    <text id="Recharge_Successful" data-name="Recharge Successful" transform="translate(186 184)" font-size="30" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-136.846" y="0">Recharge Successful</tspan></text>
+    <g id="Group_29" data-name="Group 29">
+      <g id="Group_28" data-name="Group 28">
+        <circle id="Ellipse_8" data-name="Ellipse 8" cx="50" cy="50" r="50" transform="translate(130 208)" fill="url(#linear-gradient)"/>
+        <path id="Icon_material-done" data-name="Icon material-done" d="M21.009,40.042,9.077,27.5,5.1,31.684,21.009,48.4,55.1,12.579,51.123,8.4Z" transform="matrix(1, -0.017, 0.017, 1, 149.408, 229.042)"/>
+      </g>
+    </g>
+    <text id="totalmoney" transform="translate(159.75 371)" font-size="44" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">200</tspan></text>
+    <path id="sign2" d="M18.691,5.024c.4,0,.728-.233.728-.52V2.77c0-.287-.326-.52-.728-.52H.728c-.4,0-.728.233-.728.52V4.71c0,.287.326.52.728.52H5.9A5.23,5.23,0,0,1,9.6,6.411H.728c-.4,0-.728.233-.728.52V8.665c0,.287.326.52.728.52h9.634c-.377,1.564-2,2.541-4.537,2.541H.728c-.4,0-.728.233-.728.52v2.3a.468.468,0,0,0,.234.382l10.016,6.6a.908.908,0,0,0,.494.138h5.01c.663,0,.981-.581.494-.9L7.092,14.73c4.642-.1,7.958-2.314,8.394-5.544h3.2c.4,0,.728-.233.728-.52V6.931c0-.287-.326-.52-.728-.52H15.129a5.3,5.3,0,0,0-.865-1.387Z" transform="translate(124.25 339.435)"/>
+    <text id="FasTag_Number" data-name="FasTag Number" transform="translate(102 464)" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-70.166" y="0">FasTag Number</tspan></text>
+    <text id="ID_Payment" data-name="ID Payment" transform="translate(84 511)" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-52.314" y="0">ID Payment</tspan></text>
+    <text id="MH_18_2234" data-name="MH 18 2234" transform="translate(215 464)" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em"><tspan x="0" y="0">MH 18 2234</tspan></text>
+    <text id="_1134456788" data-name="1134456788" transform="translate(272 512)" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em"><tspan x="-56.616" y="0">1134456788</tspan></text>
+  </g>
+</svg>
